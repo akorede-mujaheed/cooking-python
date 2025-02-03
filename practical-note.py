@@ -7,12 +7,12 @@ volume = (4/3)*(math.pi)*(r**3)
 x = 42
 cosx = cos(x)
 sinx = sin(x)
-cosxsquare = cosx**2
-sinxsquare = sinx**2
+cosx_square = cosx**2
+sinx_square = sinx**2
 
 x = 2
-exponacialsqueared = math.e**2
-powerexponacial = math.pow(e, 2)
-mathexponecial = math.exp(x)
-
-print(volume, cosxsquare+sinxsquare, exponacialsqueared, powerexponacial, mathexponecial )
+exponacial_squeared = math.e**2
+power_exponacial = math.pow(e, 2)
+math_exponecial = math.exp(x)
+ 
+print(volume, cosx_square+sinx_square, exponacial_squeared, power_exponacial,  )
