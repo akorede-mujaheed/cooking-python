@@ -1,10 +1,18 @@
-import math 
-from math import e
+import math
+from math import cos, sin, e
 
-x=2
+r = 5
+volume = (4/3)*(math.pi)*(r**3)
 
-a = e**2
-b = math.pow(e, 2)
-c = math.exp(x)
+x = 42
+cosx = cos(x)
+sinx = sin(x)
+cosxsquare = cosx**2
+sinxsquare = sinx**2
 
-print(a, b, c)
+x = 2
+exponacialsqueared = math.e**2
+powerexponacial = math.pow(e, 2)
+mathexponecial = math.exp(x)
+
+print(volume, cosxsquare+sinxsquare, exponacialsqueared, powerexponacial, mathexponecial )
