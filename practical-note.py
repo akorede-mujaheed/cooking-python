@@ -1,14 +1,10 @@
-from math import cos, sin 
+import math 
+from math import e
 
-x = 30
+x=2
 
-cosx = cos(x)
-sinx = sin(x) 
+a = e**2
+b = math.pow(e, 2)
+c = math.exp(x)
 
-
-Y = cos(x)**2
-Z = sin(x)**3
-
-print("The answer is ")
-print(Y + Z)
-
+print(a, b, c)
