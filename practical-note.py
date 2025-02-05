@@ -15,4 +15,7 @@ exponacial_squeared = math.e**2
 power_exponacial = math.pow(e, 2)
 math_exponecial = math.exp(x)
  
-print(volume, cosx_square+sinx_square, exponacial_squeared, power_exponacial,  )
+print(volume, cosx_square+sinx_square, exponacial_squeared, power_exponacial, math_exponecial  )
+
+
+
