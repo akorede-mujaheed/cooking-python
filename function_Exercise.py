@@ -1,5 +1,3 @@
-
- 
 def calc_diameter_of_circle(radius):
     print("The diameter is: ", 2 * radius  )
 
